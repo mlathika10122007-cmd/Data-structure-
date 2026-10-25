@@ -847,3 +847,226 @@ Original array:
 127111356
 Sorted array:
 567111213
+
+
+
+Ex.11a. OUTPUT
+
+Press 1. Insert 2. Display 3. Exit
+
+1
+
+Enter a value to insert into hash table: 12
+
+Press 1. Insert 2. Display 3. Exit
+
+1
+
+Enter a value to insert into hash table: 7
+
+Press 1. Insert 2. Display 3. Exit
+
+1
+
+Enter a value to insert into hash table: 3
+
+Press 1. Insert 2. Display 3. Exit
+
+2
+
+Entries at index 0: No Hash Entry
+
+Entries at index 1: 12> NULL
+
+Entries at index 2:37 NULL
+
+Press 1. Insert 2. Display 3. Exit
+
+1
+
+Enter a value to insert into hash table: 15
+
+Press 1. Insert 2. Display 3. Exit
+
+2
+
+Entries at index 0: No Hash Entry
+
+Entries at index 1: 12 -> NULL
+
+Entries at index 2:37 15 -> NULL
+
+Press 1. Insert 2. Display 3. Exit
+
+3
+
+
+
+
+Ex.11b. OUTPUT
+
+
+Enter size of hash table
+
+5
+
+Enter hash function (if mod 10, enter 10) 5
+
+Enter your choice
+
+1 -> Insert
+
+2-> Delete
+
+3 -> Display
+
+4-> Search
+
+5-> Exit
+
+Enter key element to insert 12
+
+Enter your choice.
+
+1-> Insert
+
+2-> Delete
+
+3-> Display
+
+4-> Search
+
+0-> Exit
+
+1
+
+Enter key element to insert
+
+25
+
+Enter your choice
+
+1 -> Insert
+
+2-> Delete
+
+3 -> Display
+
+4-> Search
+
+0-> Exit
+
+1
+
+Enter key element to insert
+
+20
+
+Enter your choice
+
+1-> Insert
+
+2-> Delete
+
+3 -> Display
+
+-> Search
+
+0-> Exit
+
+1
+
+Enter key element to insert
+
+8
+
+Enter your choice
+
+1-> Insert
+
+2 ->Delete
+
+3-> Display
+
+4->Search
+
+
+
+Ex.12. OUTPUT
+
+
+
+Enter how many students: 2
+
+Enter name and roll number for student ARUN 4211101
+
+Enter name and roll number for student 1 KUMAR 4211102
+
+Enter marks of student e for subject : 78
+
+Enter marks of student for subject 1: 98
+
+Enter marks of student for subject 2: 67
+
+Enter marks of student 1 for subject 8: 78
+
+Enter marks of student 1 for subject 1 55
+
+Enter marks of student 1 for subject 2 57
+
+Total marks obtained by student ARUN are 243
+
+Total marks obtained by student KUMAR are 190
+
+Student ARUN got maximum marks 78 in Subject: e
+
+Student ARUN got maximum marks. 98 in Subject: 1
+
+Student ARUN got maximum marks 67 in Subject: 2
+
+ARUN obtained the total highest marks.
+
+
+
+
+CBS.ex.1 OUTPUT
+
+
+postfix evaluation: -4
+
+
+
+CBSCex.2  OUTPUT
+
+
+1. Producer
+
+2. Consumer
+
+3.Display
+
+4. Exit
+
+Enter your choice: 1
+
+Enter the piece of data: 3
+
+Enter your choice: 1
+
+Enter the piece of data: 5
+
+Enter your choice: 3
+
+The data are
+
+Enter your choice: 2
+
+The consumed data is 3
+
+Enter your choice: 3
+
+The data are
+
+5
+
+Enter your choice: 4
